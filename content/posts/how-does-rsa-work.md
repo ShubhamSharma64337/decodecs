@@ -6,7 +6,7 @@ math = true
 +++
 
 ## Why RSA works?
-Prime Factrization, yes, it is the reason RSA algorithm works. Finding our prime factors of 15 or 21 is easy, but for very large numbers, there is still no algorithm which can find out the factors in polynomial time. So even though some algorithm might be able to find out the factors, but it will take it years to do so *(Until Quantum Computers are ready to be used)*.
+Prime Factorization, yes, it is the reason RSA algorithm works. Finding our prime factors of 15 or 21 is easy, but for very large numbers, there is still no algorithm which can find out the factors in polynomial time. So even though some algorithm might be able to find out the factors, but it will take it years to do so *(Until Quantum Computers are ready to be used)*.
 
 ## Step 1
 The first step in the RSA process is to choose two Prime Numbers sufficiently large enough to make it difficult to detect them from their product. For the purpose of simplicity, we will consider the numbers to be 5 and 7.  
