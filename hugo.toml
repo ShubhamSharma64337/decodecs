@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://decodecs.site/'
+languageCode = 'en-in'
 title = 'Decodecs'
 theme = 'PaperMod'
 
